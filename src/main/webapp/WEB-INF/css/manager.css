@@ -1,0 +1,26 @@
+.aaa {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: 600px;
+  margin-left: 100px;
+}
+
+.bbb {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  color: inherit;
+  background-color: #fcecb6;
+}
+.ccc {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+  color: inherit;
+  background-color: #fade7e;
+}
+
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
